@@ -1,2 +1,2 @@
 # EE209
-This is source codes for EE209 problems
+This is source course project codes for EE209 problems
